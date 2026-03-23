@@ -2,7 +2,7 @@
 
 <h3 align="center">AI & ML Enthusiast • UI/UX • Product Thinking | Turning Ideas into Products</h3>
 
-<h4 align="center">B.Tech Artificial Intelligence @ VIT Bhopal University</h4>
+<h4 align="center">B.Tech Artificial Intelligence @ VIT University</h4>
 
 <br/>
 
