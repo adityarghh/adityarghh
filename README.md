@@ -1,1 +1,98 @@
-...
+<div align="center">
+
+```
+                                        adityarghh@github
+  .+*#########*-.  ..:::...         -*  -----------------
+  .+*#######**=..     ...:::...    :*=  OS: VIT Bhopal University
+  :+***####***-..         ...:::...++.  Host: BTech Artificial Intelligence
+  :+***######+:.              ...:-*::  Kernel: 2025 → 2029
+  -+***######=..             .....+=:+  Shell: building stuff that ships
+  ++*****###*-..       .-..:...:++*-+:  
+  ++***#####*-.....::::+%###*+=**+=++.  Languages: Java Python JS C++
+  +***####%#*-..:-=+**+-.............   Frontend: React TailwindCSS Next.js
+  +***####%#*+--=#@@@@%#=....  ......   Backend: Flask Node.js Vercel
+  +*######%%%%%@@@@@@@@%%*+=++-:.....   AI/ML: Scikit-learn NLP LLM APIs
+  *##*###%@@@@@@@@@@@@@@@%#*@@%*=....   
+  +*#**#@@@@@@@@@@@@@@@@@@@%##%%%*-:.   GitHub: github.com/adityarghh
+  *##**#@@@@@@@@@@@@@@@@@@@@@%%####*..  LinkedIn: aditya-raj-79a53b314
+  %%####@@@@@@@@@@@@@@@@@@@@@@#%#@@#=:  Email: adiwildinn@gmail.com
+  %%#%#@@@@@@@@@@@@@@%#%@@@@@@@%@@%#+:  
+  %%%%%@@@@@@%%@@@@@%+=*@@@@@@@@@@@@*:  ██ ██ ██ ██ ██ ██
+  %%%@@%@@%@#--=++*#*-+%@@@@@@@@@@@*==  ░░ ░░ ░░ ░░ ░░ ░░
+  %%%@@%@@#*=-::--=---=++*#%@@@@@@+--=
+  @@@#%%%@@#=======-:--=---:#@@@%#=::-
+  @@@%%%%%#++++++=++++===-::#@*+===+--
+  @@@@@@@@***+==++++*****+=+#%*+*=+**=
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=4ECDC4&center=true&vCenter=true&width=500&lines=building+AI-powered+web+apps+%F0%9F%94%A8;shipped+to+prod+in+year+1+%F0%9F%9A%80;LLMs+%C2%B7+NLP+%C2%B7+full-stack+dev;open+to+collabs+%26+hackathons+%F0%9F%A4%9D" alt="Typing SVG" /></a>
+
+</div>
+
+---
+
+```javascript
+const adi = {
+  building  : "AI-powered web stuff",
+  learning  : "LLMs · NLP · distributed systems",
+  ask_me    : "LLM APIs · UI/UX · building products",
+  fun_fact  : "shipped a live AI coaching app in first year 🤯",
+  currently : "Core member @ Bit by Bit Club, VIT"
+}
+```
+
+---
+
+## ` projects `
+
+| | name | stack | status |
+|---|---|---|---|
+| 🎤 | **Baby Steps to the Mic** — AI speech coach w/ real-time feedback | `JS` `Claude API` `Vercel` | 🟢 live |
+| 💬 | **Distributed Chat System** — TCP socket server, thread-per-connection | `Java` `TCP/IP` | ⚫ local |
+| 📄 | **DocuQuery** — NLP document retrieval, relevance-ranked | `Python` `NLP` | ⚫ local |
+| 🏷️ | **Offroad-Semantic** — ML semantic classifier, TF-IDF pipeline | `Python` `Scikit-learn` | ⚫ local |
+
+---
+
+## ` stack `
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## ` stats `
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityarghh&theme=dark&background=0d1117&border=30363d&ring=4ecdc4&fire=ff6b6b&currStreakLabel=ffcc44&sideLabels=8892a4&dates=8892a4" width="48%"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarghh&layout=compact&bg_color=0d1117&border_color=30363d&title_color=4ecdc4&text_color=8892a4&langs_count=5" width="36%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-raj-79a53b314)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff6b6b?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-aditya-seven-rho.vercel.app)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adiwildinn@gmail.com)
+
+</div>
